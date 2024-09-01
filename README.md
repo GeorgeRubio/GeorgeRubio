@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+    <img width="https://www.google.com/imgres?q=Programacion&imgurl=https%3A%2F%2Fi.blogs.es%2F389033%2Fprogramming%2F1366_2000.jpg&imgrefurl=https%3A%2F%2Fwww.xataka.com%2Faplicaciones%2Fen-lenguajes-programacion-los-que-mas-gustan-no-son-los-mas-populares-ni-los-que-dan-mas-dinero&docid=L1ZETsEXWWryZM&tbnid=K7qk4RSeQNTaEM&vet=12ahUKEwieuuSo3qKIAxXTTTABHXtZAJgQM3oECFEQAA..i&w=1168&h=707&hcb=2&ved=2ahUKEwieuuSo3qKIAxXTTTABHXtZAJgQM3oECFEQAA">
 </p>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
